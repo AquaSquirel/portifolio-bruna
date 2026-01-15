@@ -33,7 +33,7 @@ const App = () => {
               Onde o amor encontra a <span className="italic text-earth-DEFAULT">ciência</span>.
             </h1>
             <p className="text-lg text-earth-DEFAULT leading-relaxed max-w-md">
-              Estudante do 2º semestre na Anhanguera Sorocaba. Dedicada a transformar minha paixão pelos animais em cuidado e cura.
+              Estudante do 2º semestre de Medicina Veterinariana na Anhanguera Sorocaba. Dedicada a transformar minha paixão pelos animais em cuidado e cura.
             </p>
             <div className="pt-2 md:pt-4 flex items-center space-x-4">
               <button className="bg-earth-dark text-sand-50 px-8 py-3 rounded-2xl font-semibold shadow-lg shadow-earth-dark/30 hover:-translate-y-1 transition-transform flex items-center space-x-2 w-full md:w-auto justify-center">
